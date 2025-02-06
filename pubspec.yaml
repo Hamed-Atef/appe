@@ -99,3 +99,6 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
 
+#  git add .
+#  git commit -m "Updated feature X and fixed bug Y"
+#  git push origin main
